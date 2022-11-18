@@ -1,6 +1,6 @@
 **How to Play**
 
- On welcome screen, press S to start the game.
+ On welcome screen, press E to start the game, unless you press G, then you enter DEV mode.
  Use arrow keys or WASD to move, Q to pause, E to resume, and R to restart.
  Gaming mechanics is just like the original Pacman.
 
