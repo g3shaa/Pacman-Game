@@ -11,7 +11,6 @@
    each additional ghost eaten in the same occurance of freight mode (i.e. 200
    for the 1st, 400 for the 2nd, 800 for the 3rd, resets for every freight mode).
 
- Preview:
  ![image](https://user-images.githubusercontent.com/64840882/202722176-77b4847f-81fb-489c-bbce-77204c49a749.png)
 
 
