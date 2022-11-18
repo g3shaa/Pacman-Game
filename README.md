@@ -12,9 +12,8 @@
    for the 1st, 400 for the 2nd, 800 for the 3rd, resets for every freight mode).
 
 
-			 *******!!! SUPER ULTRA SECRET CHEAT !!!*******
+			      *******!!! SECRET CHEAT !!!*******
 			 * Press G at start screen to enter GOD MODE. *
-			 * (You didn't hear it from us.)              *
 			 **********************************************
 
 **Explanation of the JS source code**
